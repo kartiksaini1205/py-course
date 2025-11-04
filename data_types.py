@@ -12,3 +12,4 @@ dictionary = {'name': 'Kartik', 'age': 20}  # dictionary
 num = {1, 2, 3, 4}  # set
 
 print(age, height, is_std, complex_num, str, li, tup, dictionary, num)
+
