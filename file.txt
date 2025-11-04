@@ -70,3 +70,6 @@ git commands:
 2. git add . : to add all the files in the current directory to the staging area
 3. git commit -m "message" : to commit the changes in the staging area with a message.
 4. git status : to check the status of the repository.
+5. git push origin main : to push the changes to the remote repository on the main branch.
+6. git config --global user.name "your name" : to set the global username for git.
+7. git config --global user.email "your email" : to set the global email for git.
