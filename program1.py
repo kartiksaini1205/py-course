@@ -13,3 +13,4 @@ print(tuple1[2])
 
 print(set1)
 print(dict1['name'])
+print(dict1.get('age'))
