@@ -73,4 +73,4 @@ git commands:
 5. git push origin main : to push the changes to the remote repository on the main branch.
 6. git config --global user.name "your name" : to set the global username for git.
 7. git config --global user.email "your email" : to set the global email for git.
-8. git clone "repository link" : to clone a remote repository to the local machine.
+8. git clone "repository link" : to clone a remote repository to the local machine. 
