@@ -74,3 +74,37 @@ git commands:
 6. git config --global user.name "your name" : to set the global username for git.
 7. git config --global user.email "your email" : to set the global email for git.
 8. git clone "repository link" : to clone a remote repository to the local machine. 
+
+operators in python:
+1. arithmetic operators: +, -, *, /, %, //, **
+2. comparison operators: ==, !=, >, <, >=, <=
+3. logical operators: and, or, not
+4. assignment operators: =, +=, -=, *=, /=, %=, //=, **=
+5. bitwise operators: the bitwise operators are the operators that directly work on binary.
+   1. & : bitwise AND : it is used to perform operations on 2 numbers and its truth table is as follows:
+        0 0 = 0
+        0 1 = 0
+        1 0 = 0
+        1 1 = 1
+   2. | : bitwise OR : it is used to perform operations on 2 numbers and its truth table is as follows:
+        0 0 = 0
+        0 1 = 1
+        1 0 = 1
+        1 1 = 1
+   3. ^ : bitwise XOR : it is used to perform operations on 2 numbers if one number become 1 then output become one and its truth table is as follows:
+        0 0 = 0
+        0 1 = 1
+        1 0 = 1
+        1 1 = 0
+   4. ~ : bitwise NOT : it is used to invert the bits of a number.
+   shift operations:shift operators are move the bit in left or right in  binary form.
+      a << n # a >> n
+      a: variable
+      << or >> : shift operators
+      n: number of positions to shift
+
+      1. << : left shift : shift all the bits to left by certain number of positions.
+               only the 1's are shifted to left and 0's are filled in from right.
+         
+      2. >> : right shift : it is used to shift the bits of a number to the right.
+               only the 0's are shifted to right and 1's are filled in from left.
