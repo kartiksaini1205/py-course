@@ -105,6 +105,7 @@ operators in python:
 
       1. << : left shift : shift all the bits to left by certain number of positions.
                only the 1's are shifted to left and 0's are filled in from right.
+               works on multiplication of 2.
          
-      2. >> : right shift : it is used to shift the bits of a number to the right.
+      2. >> : right shift : shift all the bits to right by certain number of positions.
                only the 0's are shifted to right and 1's are filled in from left.
